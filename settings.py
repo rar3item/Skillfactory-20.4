@@ -1,4 +1,4 @@
-valid_email = "und3rgrnd@gmail.com"
-valid_password = "shithappens"
+valid_email = "login"
+valid_password = "pass"
 non_valid_email = 'c3cQCASDsd'
 non_valid_password ='sadDQdASKASDLK'
